@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "9c4fdc3685626db4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9afc959a2d7718a1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "papers/Remote Health Monitoring in Clinical Trial using Machine Learning Techniques A Conceptual Framework.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5f97dfd5b33b6a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "144385bacb82046b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "512d1cd399f5b44f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "83002bb5541d25a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "biobeat",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "49cbef3ffd0aaa9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bdae4afba784e69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50c4e2d09edbe1bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "papers/Remote Health Monitoring in Clinical Trial using Machine Learning Techniques A Conceptual Framework.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9afc959a2d7718a1",
+  "lastOpenFiles": [
+    "papers/Remote Health Monitoring in Clinical Trial using Machine Learning Techniques A Conceptual Framework.md",
+    "concepts/Biobeat Wearable Device.md",
+    "papers/Intelligent hybrid remote patient-monitoring model with cloud-based framework for knowledge discovery.md",
+    "papers/Digital Epidemiological Surveillance, Smart Telemedicine Diagnosis Systems, and Machine Learning-based Real-Time Data Sensing and Processing in COVID-19 Remote Patient Monitoring.md",
+    "papers/Cloud Computing Management Architecture for Digital Health Remote Patient Monitoring.md",
+    "papers/Clinical Trial Remote Monitoring of Respiratory Health.md",
+    "papers/Artificial Intelligence and Arthroplasty at a Single Institution Real-World Applications of Machine Learning to Big Data, Value-Based Care, Mobile Health, and Remote Patient Monitoring.md",
+    "papers/A multi-task machine learning approach for comorbid patient prioritization.md",
+    "papers/Monitoring Health Changes in Congestive Heart Failure Patients using Wearables and Clinical Data.md",
+    "papers/Remote Patient Monitoring via Non-Invasive Digital Technologies-A Systematic Review.md"
+  ]
+}
